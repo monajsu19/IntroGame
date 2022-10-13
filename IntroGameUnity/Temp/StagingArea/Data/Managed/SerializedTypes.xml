@@ -1,0 +1,6 @@
+<linker>
+	<assembly fullname="Unity.InputSystem">
+		<type fullname="UnityEngine.InputSystem.InputSettings/iOSSettings" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.InputSystem.iOS.PrivacyDataUsage" preserve="nothing" serialized="true"/>
+	</assembly>
+</linker>
